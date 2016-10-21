@@ -1,0 +1,17 @@
+The first column in the file is the raw reading from the electric barometer and the second column is the value that you input. The third column is the calibrated electric barometer reading. The date and time when the measurements took place are in the fourth and fifth columns, respectively.
+
+756.974     757.2     756.974      08/13/2015 14:50
+756.864     756.7     756.864      08/13/2015 14:58
+756.473     757.1     756.473      08/13/2015 15:29
+756.473     757.1     756.473      08/13/2015 15:29
+756.473     757.1     756.473      08/13/2015 15:29
+756.473     757.1     756.473      08/13/2015 15:29
+756.473     757.1     756.473      08/13/2015 15:29
+756.473     757.1     756.473      08/13/2015 15:29
+756.473     757.1     756.473      08/13/2015 15:29
+756.473     757.1     756.473      08/13/2015 15:29
+756.473     757.1     756.473      08/13/2015 15:29
+756.312     757.4     756.83      08/13/2015 15:43
+756.329     755.8     756.89      08/13/2015 15:44
+756.151     757.1     756.63      08/13/2015 16:16
+756.093     756.9     756.61      08/13/2015 16:20

@@ -1,0 +1,71 @@
+body {
+  background-color: black;
+}
+.header {
+  background-color: black;
+  font-family: Verdana;
+  border:0.5em solid red;
+  margin-top: 1em;
+}
+h1 {
+	font-size: 3em;
+	margin-left: 1em;
+  color: white;
+}
+
+#box1 {
+  background-color: black;
+  height: 40em;
+  width: 20em;
+  margin-top: 2em;
+  margin-left: 1em;
+  border:1px solid green;
+   
+}
+
+#box2 {
+  background-color: black ;
+  height: 40em;
+  width: 20em;
+  margin-top: -40em;
+  margin-left: 80em;
+  position: relative;
+  border: 1px solid white;
+}
+
+
+table {
+	position: absolute;
+	margin-left: 27em;
+	margin-top: -26em;
+  text-align: center;
+
+
+}
+td {
+    font-family: Garamond;
+    font-size: 1.8em;
+    padding: 1em;
+    color: white;
+}
+
+#p1 {
+  color: white;
+  margin-top: -19em;
+  position: absolute;
+  margin-left: 16em;
+  font-family: Arial;
+  font-size: 2em;
+}
+#p2 {
+  margin-top: -20em;
+  color: white;
+  position: absolute;
+  margin-left: 24em;
+  font-family: Arial;
+  font-size: 1.7em;
+}
+#admin {
+  color: white;
+  font-size: 1.2em;
+}
