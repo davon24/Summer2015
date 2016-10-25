@@ -7,8 +7,8 @@ from numpy import *
 from ftplib import FTP
 
 ftp = FTP('phoenix.mdacc.tmc.edu') #Declares variables that are used for FTP transfer
-FTPUser = 'p3rtp'
-FTPPass = 'p3plan'
+FTPUser = 'ommitted'
+FTPPass = 'ommitted'
 
 value = input("Enter Mercury Barometer Reading: ")
 admin = raw_input("Enter your name: ")
